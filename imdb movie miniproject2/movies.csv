@@ -1,0 +1,251 @@
+Rank,Title,Year,Rating,Duration,Certificate,Genre,Rating_Count
+1,The Shawshank Redemption,1994,9.3,2h 22m,R,Drama,3238308
+2,The Godfather,1972,9.2,2h 55m,R,"Crime, Drama",2256018
+3,The Dark Knight,2008,9.1,2h 32m,PG-13,"Crime, Thriller",3226792
+4,The Godfather Part II,1974,9.0,3h 22m,R,"Crime, Drama",1513056
+5,The Lord of the Rings: The Return of the King,2003,9.0,3h 21m,PG-13,"Adventure, Drama, Fantasy",2192953
+6,12 Angry Men,1957,9.0,1h 36m,Approved,"Crime, Drama",1002788
+7,Schindler's List,1993,9.0,3h 16m,R,"Biography, Drama, History",1603143
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2h 58m,PG-13,"Adventure, Drama, Fantasy",2236714
+9,Pulp Fiction,1994,8.8,2h 34m,R,"Crime, Drama",2467315
+10,The Lord of the Rings: The Two Towers,2002,8.8,2h 59m,PG-13,"Adventure, Drama, Fantasy",1983673
+11,"The Good, the Bad and the Ugly",1966,8.8,2h 58m,R,"Adventure, Drama, Western",901007
+12,Forrest Gump,1994,8.8,2h 22m,PG-13,"Drama, Romance",2534767
+13,Fight Club,1999,8.8,2h 19m,R,"Crime, Drama, Thriller",2661361
+14,Inception,2010,8.8,2h 28m,PG-13,"Adventure, Sci-Fi, Thriller",2868635
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,2h 4m,PG,"Adventure, Fantasy, Sci-Fi",1523518
+16,The Matrix,1999,8.7,2h 16m,R,"Action, Sci-Fi",2278049
+17,Interstellar,2014,8.7,2h 49m,PG-13,"Adventure, Drama, Sci-Fi",2606960
+18,GoodFellas,1990,8.7,2h 25m,R,"Biography, Crime, Drama",1412942
+19,One Flew Over the Cuckoo's Nest,1975,8.6,2h 13m,R,Drama,1167015
+20,Seven,1995,8.6,2h 7m,R,"Crime, Drama, Mystery",2059076
+21,It's a Wonderful Life,1946,8.6,2h 10m,PG,"Drama, Family, Fantasy",559310
+22,The Silence of the Lambs,1991,8.6,1h 58m,R,"Crime, Drama, Horror",1749145
+23,Saving Private Ryan,1998,8.6,2h 49m,R,"Drama, War",1661948
+24,Seven Samurai,1954,8.6,3h 27m,Not Rated,"Action, Drama",405753
+25,The Green Mile,1999,8.6,3h 9m,R,"Crime, Drama, Fantasy",1584976
+26,City of God,2002,8.6,2h 10m,R,"Crime, Drama",882021
+27,Life Is Beautiful,1997,8.6,1h 56m,PG-13,"Comedy, Drama, Romance",822798
+28,Terminator 2: Judgment Day,1991,8.6,2h 17m,R,"Action, Adventure, Sci-Fi",1300876
+29,Back to the Future,1985,8.5,1h 56m,PG,"Adventure, Comedy, Sci-Fi",1475603
+30,Star Wars: Episode IV - A New Hope,1977,8.6,2h 1m,PG,"Action, Adventure, Fantasy",1588640
+31,Spirited Away,2001,8.6,2h 4m,PG,"Animation, Adventure, Family",984844
+32,Kill Bill: The Whole Bloody Affair,2004,8.7,4h 13m,Unrated,"Action, Crime, Thriller",58354
+33,Gladiator,2000,8.5,2h 35m,R,"Action, Adventure, Drama",1881725
+34,The Pianist,2002,8.5,2h 30m,R,"Biography, Drama, Music",1024832
+35,Parasite,2019,8.5,2h 12m,R,"Drama, Thriller",1195827
+36,Grave of the Fireflies,1988,8.5,1h 28m,Not Rated,"Animation, Drama, War",396363
+37,Harakiri,1962,8.6,2h 13m,Not Rated,"Drama, Mystery",94121
+38,Psycho,1960,8.5,1h 49m,R,"Drama, Horror, Mystery",794208
+39,The Lion King,1994,8.5,1h 28m,G,"Animation, Adventure, Drama",1277655
+40,The Departed,2006,8.5,2h 31m,R,"Crime, Drama, Thriller",1578357
+41,Whiplash,2014,8.5,1h 46m,R,"Drama, Music",1181384
+42,The Prestige,2006,8.5,2h 10m,PG-13,"Drama, Mystery, Sci-Fi",1626094
+43,American History X,1998,8.5,1h 59m,R,"Crime, Drama",1286676
+44,Spider-Man: Across the Spider-Verse,2023,8.5,2h 20m,PG,"Animation, Action, Adventure",553063
+45,Léon: The Professional,1994,8.5,1h 50m,R,"Action, Crime, Drama",1365654
+46,Cinema Paradiso,1988,8.5,2h 54m,PG,"Drama, Romance",320753
+47,Casablanca,1942,8.5,1h 42m,PG,"Drama, Romance, War",661036
+48,The Intouchables,2011,8.5,1h 52m,R,"Comedy, Drama",1042264
+49,The Usual Suspects,1995,8.5,1h 46m,R,"Crime, Drama, Mystery",1253796
+50,Django Unchained,2012,8.5,2h 45m,R,"Drama, Western",1913589
+51,Alien,1979,8.4,1h 57m,R,"Horror, Sci-Fi",1076845
+52,Rear Window,1954,8.4,1h 52m,PG,"Drama, Mystery, Thriller",574078
+53,Modern Times,1936,8.5,1h 27m,G,"Comedy, Drama, Romance",287846
+54,Once Upon a Time in the West,1968,8.5,2h 25m,PG-13,"Drama, Western",387758
+55,City Lights,1931,8.5,1h 27m,G,"Comedy, Drama, Romance",218279
+56,WALL·E,2008,8.4,1h 38m,G,"Animation, Adventure, Family",1341878
+57,Apocalypse Now,1979,8.4,2h 27m,R,"Drama, Mystery, War",778159
+58,Memento,2000,8.4,1h 53m,R,"Mystery, Thriller",1459193
+59,Avengers: Infinity War,2018,8.4,2h 29m,PG-13,"Action, Adventure, Sci-Fi",1409924
+60,Dune: Part Two,2024,8.4,2h 46m,PG-13,"Action, Adventure, Drama",793168
+61,The Odyssey,2026,8.4,2h 52m,R,"Action, Adventure, Fantasy",495176
+62,Raiders of the Lost Ark,1981,8.4,1h 55m,PG,Adventure,1120931
+63,Spider-Man: Into the Spider-Verse,2018,8.4,1h 57m,PG,"Animation, Action, Adventure",816542
+64,The Lives of Others,2006,8.4,2h 17m,R,"Drama, Mystery, Thriller",447167
+65,Sunset Boulevard,1950,8.4,1h 50m,Approved,"Drama, Film-Noir",263814
+66,Witness for the Prosecution,1957,8.4,1h 56m,Approved,"Crime, Drama, Mystery",164429
+67,Paths of Glory,1957,8.4,1h 28m,Approved,"Drama, War",242695
+68,Inglourious Basterds,2009,8.4,2h 33m,R,"Drama, War",1818148
+69,The Shining,1980,8.4,2h 26m,R,"Drama, Horror",1243372
+70,The Great Dictator,1940,8.4,2h 5m,G,"Comedy, Drama, War",260365
+71,Aliens,1986,8.4,2h 17m,R,"Action, Adventure, Horror",848265
+72,12th Fail,2023,8.7,2h 27m,,"Biography, Drama",177329
+73,High and Low,1963,8.4,2h 23m,Not Rated,"Crime, Drama, Mystery",73575
+74,Avengers: Endgame,2019,8.4,3h 1m,PG-13,"Action, Adventure, Sci-Fi",1487659
+75,Good Will Hunting,1997,8.4,2h 6m,R,"Drama, Romance",1242179
+76,Coco,2017,8.4,1h 45m,PG,"Animation, Adventure, Drama",726984
+77,Toy Story,1995,8.3,1h 21m,G,"Animation, Adventure, Comedy",1199017
+78,The Dark Knight Rises,2012,8.4,2h 44m,PG-13,"Crime, Thriller",2027642
+79,Amadeus,1984,8.4,2h 40m,PG,"Biography, Drama, Music",473370
+80,Your Name.,2016,8.4,1h 46m,,"Animation, Drama, Fantasy",405081
+81,3 Idiots,2009,8.4,2h 50m,PG-13,"Comedy, Drama",489686
+82,Das Boot,1981,8.3,2h 29m,,"Drama, War",290537
+83,Braveheart,1995,8.3,2h 58m,R,"Drama, War",1172386
+84,Princess Mononoke,1997,8.3,2h 13m,PG-13,"Animation, Adventure, Fantasy",490979
+85,Oldboy,2003,8.3,2h,R,"Action, Drama, Mystery",732370
+86,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,1h 35m,PG,"Comedy, War",554558
+87,American Beauty,1999,8.3,2h 2m,R,Drama,1288421
+88,Capernaum,2018,8.4,2h 6m,R,Drama,126915
+89,Singin' in the Rain,1952,8.3,1h 43m,G,"Comedy, Musical, Romance",285869
+90,Once Upon a Time in America,1984,8.3,3h 49m,R,"Crime, Drama",412139
+91,Joker,2019,8.3,2h 2m,R,Drama,1725705
+92,Toy Story 3,2010,8.3,1h 43m,G,"Animation, Adventure, Comedy",990531
+93,Star Wars: Episode VI - Return of the Jedi,1983,8.3,2h 11m,PG,"Action, Adventure, Fantasy",1224098
+94,Come and See,1985,8.3,2h 22m,Not Rated,"Drama, Thriller, War",126573
+95,Attack on Titan: The Last Attack,2024,8.9,2h 25m,,"Animation, Action, Adventure",37074
+96,Requiem for a Dream,2000,8.3,1h 42m,NC-17,Drama,985055
+97,Ikiru,1952,8.3,2h 23m,Not Rated,Drama,103979
+98,Incendies,2010,8.3,2h 11m,R,"Drama, Mystery, War",259419
+99,The Hunt,2012,8.3,1h 55m,R,Drama,418466
+100,Eternal Sunshine of the Spotless Mind,2004,8.3,1h 48m,R,"Drama, Romance, Sci-Fi",1196318
+101,The Apartment,1960,8.3,2h 5m,Approved,"Comedy, Drama, Romance",223108
+102,Lawrence of Arabia,1962,8.3,3h 47m,Approved,"Adventure, Biography, Drama",346213
+103,Heat,1995,8.3,2h 50m,R,"Action, Crime, Drama",818577
+104,Scarface,1983,8.3,2h 50m,R,"Crime, Drama",1034702
+105,Reservoir Dogs,1992,8.2,1h 39m,R,"Crime, Thriller",1181914
+106,Up,2009,8.3,1h 36m,PG,"Animation, Adventure, Comedy",1256153
+107,2001: A Space Odyssey,1968,8.3,2h 29m,G,"Adventure, Sci-Fi",792820
+108,Double Indemnity,1944,8.3,1h 47m,Approved,"Crime, Drama, Film-Noir",183286
+109,Like Stars on Earth,2007,8.3,2h 42m,PG,"Drama, Family",236231
+110,North by Northwest,1959,8.2,2h 16m,Approved,"Adventure, Drama, Mystery",371681
+111,Full Metal Jacket,1987,8.2,1h 56m,R,"Drama, War",859484
+112,I Swear,2025,8.3,2h,R,"Biography, Drama",64258
+113,A Separation,2011,8.3,2h 3m,PG-13,Drama,280476
+114,Die Hard,1988,8.2,2h 12m,R,"Action, Thriller",1040073
+115,M,1931,8.3,1h 39m,Passed,"Crime, Mystery, Thriller",184413
+116,Amélie,2001,8.2,2h 2m,R,"Comedy, Romance",847217
+117,Vertigo,1958,8.2,2h 8m,PG,"Mystery, Romance, Thriller",462892
+118,To Kill a Mockingbird,1962,8.2,2h 9m,Approved,"Crime, Drama",353301
+119,Citizen Kane,1941,8.2,1h 59m,PG,"Drama, Mystery",496738
+120,Indiana Jones and the Last Crusade,1989,8.2,2h 7m,PG-13,Adventure,871600
+121,The Sting,1973,8.2,2h 9m,PG,"Comedy, Crime, Drama",305835
+122,A Clockwork Orange,1971,8.2,2h 16m,R,"Crime, Sci-Fi",944851
+123,Metropolis,1927,8.2,2h 30m,Passed,"Drama, Sci-Fi",203110
+124,1917,2019,8.2,1h 59m,R,"Drama, War",786170
+125,The Wolf of Wall Street,2013,8.2,3h,R,"Biography, Comedy, Crime",1825735
+126,The Truman Show,1998,8.2,1h 43m,PG,"Comedy, Drama",1406179
+127,Snatch,2000,8.2,1h 42m,R,"Comedy, Crime",985835
+128,Downfall,2004,8.2,2h 36m,R,"Biography, Drama, History",403996
+129,Shutter Island,2010,8.2,2h 18m,R,"Mystery, Thriller",1684157
+130,L.A. Confidential,1997,8.2,2h 18m,R,"Crime, Drama, Mystery",663843
+131,Woman in the Dunes,1964,8.4,2h 27m,Not Rated,"Drama, Thriller",26470
+132,Green Book,2018,8.2,2h 10m,PG-13,"Biography, Comedy, Drama",704049
+133,Dangal,2016,8.3,2h 41m,Not Rated,"Action, Biography, Drama",248172
+134,Bicycle Thieves,1948,8.2,1h 29m,Not Rated,Drama,193308
+135,Judgment at Nuremberg,1961,8.3,2h 59m,Approved,"Drama, History, War",98564
+136,Jurassic Park,1993,8.2,2h 7m,PG-13,"Adventure, Sci-Fi",1199023
+137,Batman Begins,2005,8.2,2h 20m,PG-13,Crime,1744458
+138,Oppenheimer,2023,8.2,3h,R,"Biography, Drama, History",1097822
+139,For a Few Dollars More,1965,8.2,2h 12m,R,"Drama, Western",304064
+140,Hamilton,2020,8.3,2h 40m,PG-13,"Biography, Drama, History",142813
+141,There Will Be Blood,2007,8.2,2h 38m,R,Drama,719205
+142,Some Like It Hot,1959,8.2,2h 1m,Approved,"Comedy, Music, Romance",307426
+143,Taxi Driver,1976,8.2,1h 54m,R,"Crime, Drama",1042227
+144,The Father,2020,8.2,1h 37m,PG-13,"Drama, Mystery",249819
+145,The Kid,1921,8.2,1h 8m,Passed,"Comedy, Drama, Family",147129
+146,The Sixth Sense,1999,8.2,1h 47m,PG-13,"Drama, Mystery, Thriller",1163003
+147,All About Eve,1950,8.2,2h 18m,Approved,Drama,150596
+148,Ran,1985,8.2,2h 40m,R,"Action, Drama, War",154628
+149,Casino,1995,8.2,2h 58m,R,"Crime, Drama",628122
+150,The Thing,1982,8.2,1h 49m,R,"Horror, Mystery, Sci-Fi",535398
+151,No Country for Old Men,2007,8.2,2h 2m,R,"Crime, Drama, Thriller",1213678
+152,Prisoners,2013,8.2,2h 33m,R,"Crime, Drama, Mystery",958850
+153,Top Gun: Maverick,2022,8.2,2h 10m,PG-13,"Action, Drama",905420
+154,Kill Bill: Vol. 1,2003,8.2,1h 51m,R,"Action, Crime, Thriller",1325066
+155,Pan's Labyrinth,2006,8.2,1h 58m,R,"Drama, Fantasy, War",753136
+156,Unforgiven,1992,8.2,2h 10m,R,"Drama, Western",472840
+157,A Beautiful Mind,2001,8.2,2h 15m,PG-13,"Biography, Drama, Mystery",1063958
+158,Howl's Moving Castle,2004,8.2,1h 59m,PG,"Animation, Adventure, Family",521686
+159,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,8.4,2h 35m,R,"Animation, Action, Adventure",84135
+160,Project Hail Mary,2026,8.2,2h 36m,PG-13,"Adventure, Comedy, Drama",546771
+161,The Treasure of the Sierra Madre,1948,8.2,2h 6m,Approved,"Adventure, Drama, Western",142734
+162,Finding Nemo,2003,8.2,1h 40m,G,"Animation, Adventure, Comedy",1225313
+163,Klaus,2019,8.2,1h 36m,PG,"Animation, Adventure, Comedy",242562
+164,Yojimbo,1961,8.2,1h 50m,Not Rated,"Action, Drama, Thriller",144717
+165,The Elephant Man,1980,8.2,2h 4m,PG,"Biography, Drama",284462
+166,The Great Escape,1963,8.2,2h 52m,Approved,"Adventure, Drama, Thriller",280084
+167,Monty Python and the Holy Grail,1975,8.1,1h 31m,PG,"Adventure, Comedy, Fantasy",607977
+168,Dial M for Murder,1954,8.1,1h 45m,PG,"Crime, Drama, Mystery",207071
+169,The Secret in Their Eyes,2009,8.2,2h 9m,R,"Drama, Mystery, Romance",245377
+170,Gone with the Wind,1939,8.2,3h 58m,G,"Drama, Romance, War",358754
+171,"Lock, Stock and Two Smoking Barrels",1998,8.1,1h 47m,R,"Comedy, Crime",654279
+172,Chinatown,1974,8.1,2h 10m,R,"Drama, Mystery, Thriller",380129
+173,Catch Me If You Can,2002,8.1,2h 21m,PG-13,"Biography, Crime, Drama",1265008
+174,V for Vendetta,2005,8.1,2h 12m,R,"Action, Drama, Sci-Fi",1256335
+175,The Best of Youth,2003,8.4,6h 14m,R,"Drama, Romance",28792
+176,Dead Poets Society,1989,8.1,2h 8m,PG,"Comedy, Drama",669144
+177,Inside Out,2015,8.1,1h 35m,PG,"Animation, Adventure, Comedy",932954
+178,Trainspotting,1996,8.1,1h 33m,R,"Crime, Drama",774778
+179,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,2h 10m,PG-13,"Adventure, Family, Fantasy",1062897
+180,"Three Billboards Outside Ebbing, Missouri",2017,8.1,1h 55m,R,"Comedy, Crime, Drama",616107
+181,The Bridge on the River Kwai,1957,8.1,2h 41m,PG,"Adventure, Drama, War",251095
+182,Rashomon,1950,8.1,1h 28m,Not Rated,"Crime, Drama, Mystery",198748
+183,Barry Lyndon,1975,8.1,3h 5m,PG,"Adventure, Drama, War",208307
+184,Ben-Hur,1959,8.1,3h 32m,G,"Adventure, Drama",273568
+185,The Wild Robot,2024,8.1,1h 42m,PG,"Animation, Adventure, Family",237726
+186,Warrior,2011,8.1,2h 20m,PG-13,"Action, Drama, Sport",533732
+187,Hacksaw Ridge,2016,8.1,2h 19m,R,"Biography, Drama, History",696853
+188,Ratatouille,2007,8.1,1h 51m,G,"Animation, Adventure, Comedy",966004
+189,Mad Max: Fury Road,2015,8.1,2h,R,"Action, Adventure, Sci-Fi",1221273
+190,Fargo,1996,8.1,1h 38m,R,"Crime, Drama, Thriller",797081
+191,Million Dollar Baby,2004,8.1,2h 12m,PG-13,"Drama, Sport",773677
+192,Children of Heaven,1997,8.2,1h 29m,PG,"Drama, Family, Sport",91353
+193,My Neighbor Totoro,1988,8.1,1h 26m,G,"Animation, Adventure, Comedy",439858
+194,Gran Torino,2008,8.1,1h 56m,R,Drama,870325
+195,Raging Bull,1980,8.1,2h 9m,R,"Biography, Drama, Sport",414169
+196,12 Years a Slave,2013,8.1,2h 14m,R,"Biography, Drama, History",794741
+197,How to Train Your Dragon,2010,8.1,1h 38m,PG,"Animation, Action, Adventure",908884
+198,Memories of Murder,2003,8.1,2h 11m,Not Rated,"Crime, Drama, Mystery",275188
+199,The Grand Budapest Hotel,2014,8.1,1h 39m,R,"Comedy, Drama",986876
+200,Before Sunrise,1995,8.1,1h 41m,R,"Comedy, Drama, Romance",384133
+201,"Monsters, Inc.",2001,8.1,1h 32m,G,"Animation, Adventure, Comedy",1091607
+202,Blade Runner,1982,8.1,1h 57m,R,"Action, Drama, Sci-Fi",891423
+203,Gone Girl,2014,8.1,2h 29m,R,"Drama, Mystery, Thriller",1187861
+204,Ford v Ferrari,2019,8.1,2h 32m,PG-13,"Action, Biography, Drama",586810
+205,Jaws,1975,8.1,2h 4m,PG,"Adventure, Drama, Horror",749956
+206,In the Name of the Father,1993,8.1,2h 13m,R,"Biography, Crime, Drama",204776
+207,Spider-Man: No Way Home,2021,8.1,2h 28m,PG-13,"Action, Adventure, Fantasy",1074421
+208,Chainsaw Man - The Movie: Reze Arc,2025,8.3,1h 40m,R,"Animation, Action, Adventure",68441
+209,Wild Tales,2014,8.1,2h 2m,R,"Comedy, Drama, Thriller",241596
+210,The Gold Rush,1925,8.1,1h 35m,Approved,"Adventure, Comedy, Drama",129193
+211,A Silent Voice: The Movie,2016,8.2,2h 10m,Not Rated,"Animation, Drama",150032
+212,Sherlock Jr.,1924,8.1,45m,Passed,"Action, Comedy, Romance",67031
+213,Mary and Max,2009,8.1,1h 32m,Not Rated,"Animation, Comedy, Drama",203344
+214,The Deer Hunter,1978,8.1,3h 3m,R,"Drama, War",389568
+215,The Wages of Fear,1953,8.1,2h 36m,Not Rated,"Adventure, Drama, Thriller",74403
+216,Logan,2017,8.1,2h 17m,R,"Action, Drama, Sci-Fi",940718
+217,Rocky,1976,8.1,2h,PG,"Drama, Sport",701757
+218,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,2h 23m,PG-13,"Action, Adventure, Fantasy",1345926
+219,The General,1926,8.1,1h 18m,Passed,"Action, Adventure, Comedy",106169
+220,Mr. Smith Goes to Washington,1939,8.1,2h 9m,Approved,"Comedy, Drama",130484
+221,Tokyo Story,1953,8.1,2h 17m,Not Rated,Drama,78844
+222,La haine,1995,8.1,1h 38m,Not Rated,"Crime, Drama",231660
+223,Jai Bhim,2021,8.6,2h 44m,TV-MA,"Crime, Drama",236381
+224,Spotlight,2015,8.1,2h 9m,R,"Biography, Crime, Drama",540933
+225,Maharaja,2024,8.3,2h 21m,,"Action, Crime, Drama",85533
+226,The Sound of Music,1965,8.1,2h 54m,G,"Biography, Drama, Family",295238
+227,The Terminator,1984,8.1,1h 47m,R,"Action, Adventure, Sci-Fi",1018239
+228,Wild Strawberries,1957,8.1,1h 32m,Not Rated,"Drama, Romance",125798
+229,On the Waterfront,1954,8.1,1h 48m,Approved,"Crime, Drama, Thriller",181077
+230,The Best Years of Our Lives,1946,8.1,2h 50m,Approved,"Drama, Romance, War",77154
+231,The Third Man,1949,8.1,1h 44m,Approved,"Drama, Film-Noir, Mystery",197386
+232,The Big Lebowski,1998,8.1,1h 57m,R,"Comedy, Crime",924624
+233,The Incredibles,2004,8.0,1h 55m,PG,"Animation, Action, Adventure",917172
+234,Before Sunset,2004,8.1,1h 20m,R,"Drama, Romance",319682
+235,Hachi: A Dog's Tale,2009,8.1,1h 33m,G,"Biography, Drama, Family",348416
+236,Room,2015,8.1,1h 58m,R,"Drama, Thriller",484856
+237,The Exorcist,1973,8.1,2h 2m,R,Horror,504808
+238,The Chaos Class Failed the Class,1975,8.4,1h 35m,,Comedy,31492
+239,Hotel Rwanda,2004,8.1,2h 1m,PG-13,"Biography, Drama, History",394876
+240,The Iron Giant,1999,8.1,1h 26m,PG,"Animation, Action, Adventure",265567
+241,The Seventh Seal,1957,8.1,1h 36m,Not Rated,"Drama, Fantasy",217741
+242,Platoon,1986,8.0,2h,R,"Drama, War",477099
+243,Rush,2013,8.1,2h 3m,R,"Biography, Drama, Sport",566866
+244,Stand by Me,1986,8.1,1h 29m,R,"Adventure, Drama",494930
+245,The Wizard of Oz,1939,8.1,1h 42m,G,"Adventure, Family, Fantasy",472692
+246,The Battle of Algiers,1966,8.1,2h 1m,Not Rated,"Drama, War",76992
+247,My Father and My Son,2005,8.2,1h 52m,Not Rated,Drama,102233
+248,The Passion of Joan of Arc,1928,8.1,1h 54m,Passed,"Biography, Drama, History",69255
+249,Autumn Sonata,1978,8.1,1h 39m,PG,"Drama, Music",43452
+250,Andhadhun,2018,8.2,2h 19m,Not Rated,"Comedy, Crime, Mystery",118231
